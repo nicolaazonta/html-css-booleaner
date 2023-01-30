@@ -1,0 +1,56 @@
+
+
+.app_header {
+    background-image: url('../img/pattern.png');
+    background-color: #4ea0ff;
+    height: 250px;
+}
+
+.logo_spec {
+    margin-top: 150px;
+    margin-left: 5px;
+    width: 400px;
+}
+
+.app_main{
+    margin: 0px;
+}
+
+h1{
+    margin: 30px 0px 0px 0px;
+    font-size: 90px;
+    font-weight: 12s00;
+}
+
+.author{
+    margin: 0px;
+    color: #9b9b9b;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.blue_color {
+    color: #56bdeb;
+}
+
+.data_spec{
+    margin: 0px;
+    color: #9b9b9b;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.Tim {
+    height: 1000px;
+}
+
+.photo_spec{
+    font-weight: 550;
+    font-size: 30px;
+    margin: 0px;
+}
+
+div{
+    font-size: 35px;
+    font-weight: normal;
+}
