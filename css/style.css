@@ -102,5 +102,13 @@ table{
 .second_img_card{
     background-image: url('../img/graph.jpg');
     background-size: cover;
+    margin-bottom: 35px;
+}
+
+.app_footer{
+    text-align: right;
+    font-size: 25px;
+    font-style: italic;
+    border-top: 3px solid black ;
 }
 
