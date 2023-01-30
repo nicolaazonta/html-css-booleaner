@@ -22,7 +22,7 @@ h1{
     font-weight: 12s00;
 }
 
-.author{
+.light-grey_spec{
     margin: 0px;
     color: #9b9b9b;
     font-size: 40px;
@@ -54,3 +54,53 @@ div{
     font-size: 35px;
     font-weight: normal;
 }
+
+table{
+    width: 100%;
+    text-align: left;
+}
+
+.first_column {
+    width: 800px;
+}
+
+.second_column {
+    width: 800px;
+}
+
+.third_column {
+    width: auto;
+}
+
+.first_row {
+    background-color: #20a9e5;
+    color: white;
+}
+
+.light_row {
+    background-color: #b1e5f2;
+    color: black;
+}
+
+.Highlighted_Text{
+    background-color: #ffff00;
+}
+
+.card{
+    font-weight: bold;
+    font-size: 50px;
+    color: white;
+    width: 500px;
+    height: 500px;
+}
+
+.first_img_card{
+    background-image: url('../img/monitor.jpg');
+    background-size: cover;
+}
+
+.second_img_card{
+    background-image: url('../img/graph.jpg');
+    background-size: cover;
+}
+
